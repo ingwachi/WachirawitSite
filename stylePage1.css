@@ -1,0 +1,50 @@
+body {
+    background: whitesmoke;
+    font-family: "Inconsolata", sans-serif;   
+}
+
+.filter{
+    filter: grayscale(60%);
+    opacity: 0.5;
+    width: 100%;
+}
+
+.centered {
+    position: absolute;
+    top: 20%;
+    left: 25%;    
+}
+
+h1{
+    font-family: "Inconsolata";
+    font-size: 70px;
+    color: black;
+    -webkit-text-stroke: 2px black;
+}
+
+h2{
+    font-family: "Inconsolata";
+    color: white;    
+    background-color: black;
+    text-align: center
+}
+
+h3{
+    font-family: "Inconsolata";
+    color: black;
+    font-size: 30px;
+    text-decoration-line: underline;    
+    text-align: center;
+}
+
+.content{
+    text-align: center;
+    font-family: "Inconsolata";
+    font-size: 30px;
+    
+}
+
+.symbol{
+    text-align: center;
+    font-size: 60px;
+}
